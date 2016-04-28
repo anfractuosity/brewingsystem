@@ -3,6 +3,10 @@ Design of the electronics etc. for my homebrewery
 
 # Parts
 
+* Pt100 4-wire Class A
+
+http://www.omega.co.uk/pptst/PRS-3-100.html
+
 * AD7124-8BCPZ 24 bit ADC
 
 Chip: 
