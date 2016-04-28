@@ -29,3 +29,5 @@ http://uk.farnell.com/texas-instruments/lmp91200mt-nopb/analogue-front-end-ph-se
 Chip:
 
 http://uk.farnell.com/maxim-integrated-products/max14789egsa/rs-485-transceiver-25mbps-nsoic/dp/2514538
+
+* Ethernet cable for connecting the RS-485 sensors
