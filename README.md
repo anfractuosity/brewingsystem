@@ -18,3 +18,10 @@ http://uk.farnell.com/analog-devices/eval-ad7124-8sdz/eval-brd-ad7124-8-24bit-si
 Chip:
 
 http://uk.farnell.com/texas-instruments/lmp91200mt-nopb/analogue-front-end-ph-sensing/dp/2496273
+
+
+* MAX14789EGSA RS-485 TRANSCEIVER, 25MBPS
+
+Chip:
+
+http://uk.farnell.com/maxim-integrated-products/max14789egsa/rs-485-transceiver-25mbps-nsoic/dp/2514538
