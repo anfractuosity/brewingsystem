@@ -5,4 +5,10 @@ Design of the electronics etc. for my homebrewery
 
 * AD7124-8BCPZ 24 bit ADC
 
+Chip: 
+
 http://uk.farnell.com/analog-devices/ad7124-8bcpz/adc-24bit-19-2ksps-spi-lfcsp-32/dp/2490565 
+
+Evaluation board: 
+
+http://uk.farnell.com/analog-devices/eval-ad7124-8sdz/eval-brd-ad7124-8-24bit-sigma/dp/2490578
