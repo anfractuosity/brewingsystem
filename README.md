@@ -24,7 +24,7 @@ Chip:
 http://uk.farnell.com/texas-instruments/lmp91200mt-nopb/analogue-front-end-ph-sensing/dp/2496273
 
 
-* MAX14789EGSA RS-485 TRANSCEIVER, 25MBPS
+* MAX14789EGSA RS-485 TRANSCEIVER, 25Mbps
 
 Chip:
 
