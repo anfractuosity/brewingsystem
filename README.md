@@ -31,3 +31,7 @@ Chip:
 http://uk.farnell.com/maxim-integrated-products/max14789egsa/rs-485-transceiver-25mbps-nsoic/dp/2514538
 
 * Ethernet cable for connecting the RS-485 sensors
+
+* PQLYT 40A SSR
+
+http://www.aliexpress.com/store/product/PQLYT-100-QUALITY-actually-max-40A-SSR-input-3-32VDC-output-24-480VAC-solid-state-relay/808493_1984942532.html
