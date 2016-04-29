@@ -29,7 +29,7 @@ Chip:
 
 http://uk.farnell.com/maxim-integrated-products/max13433eesd/rs485-txrx-16mbps-5-5v-nsoic-14/dp/2511596
 
-* Ethernet cable for connecting the RS-485 sensors
+* Ethernet cable for connecting the RS-485 sensors.  Look for cat5e STP.
 
 * PQLYT 40A SSR
 
