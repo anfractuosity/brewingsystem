@@ -34,3 +34,11 @@ http://uk.farnell.com/maxim-integrated-products/max13433eesd/rs485-txrx-16mbps-5
 * PQLYT 40A SSR
 
 http://www.aliexpress.com/store/product/PQLYT-100-QUALITY-actually-max-40A-SSR-input-3-32VDC-output-24-480VAC-solid-state-relay/808493_1984942532.html
+
+* Wifi modules 
+
+| Chip Name     | Cost          | Features   |
+| ------------- | ------------- | ---------- |
+| ESP8266       | $2 / module   |            |  
+| Content Cell  | Content Cell  |            |
+
