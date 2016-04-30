@@ -37,8 +37,7 @@ http://www.aliexpress.com/store/product/PQLYT-100-QUALITY-actually-max-40A-SSR-i
 
 * Wifi modules 
 
-| Chip Name     | Cost          | Features   |
-| ------------- | ------------- | ---------- |
-| ESP8266       | $2 / module   |            |  
-| Content Cell  | Content Cell  |            |
+| Chip Name     | Cost          | Arch 	         | Features   |
+| ------------- | ------------- | -------------- | ---------- |
+| ESP8266       | $2 / module   | Tensilica RISC |            |  
 
