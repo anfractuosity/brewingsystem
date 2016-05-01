@@ -29,6 +29,11 @@ Chip:
 
 http://uk.farnell.com/maxim-integrated-products/max13433eesd/rs485-txrx-16mbps-5-5v-nsoic-14/dp/2511596
 
+* 8 circuit DIP Switch (for specifying modbus address)
+
+http://uk.farnell.com/multicomp/mcdha-08tqr/dip-switch-8-pos-spst-flush-slide/dp/2422607
+
+
 * Ethernet cable for connecting the RS-485 sensors.  Look for cat5e STP.
 
 * PQLYT 40A SSR
@@ -38,6 +43,9 @@ http://www.aliexpress.com/store/product/PQLYT-100-QUALITY-actually-max-40A-SSR-i
 * Ultrasound distance module (for sensing level, and deriving volume from) 
 
 http://www.ebay.co.uk/itm/181954043101
+
+
+
 
 * Wifi modules 
 
