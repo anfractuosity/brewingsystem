@@ -33,6 +33,9 @@ http://uk.farnell.com/maxim-integrated-products/max13433eesd/rs485-txrx-16mbps-5
 
 http://uk.farnell.com/multicomp/mcdha-08tqr/dip-switch-8-pos-spst-flush-slide/dp/2422607
 
+* RJ45 Jack
+
+http://uk.farnell.com/multicomp/mtj-881x1/modular-jack-tht-r-a-rj45-8p8c/dp/2112501
 
 * Ethernet cable for connecting the RS-485 sensors.  Look for cat5e STP.
 
