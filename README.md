@@ -54,5 +54,43 @@ http://www.ebay.co.uk/itm/181954043101
 
 | Chip Name     | Cost          | Arch 	         | Features   |
 | ------------- | ------------- | -------------- | ---------- |
-| ESP8266       | $2 / module   | Tensilica RISC |            |  
+| ESP8266       | $2 / module   | Tensilica RISC |            | 
+
+
+```
++------------------------+
+|                        |
+|                        |
+|  Raspberry Pi running  |
+|  modbus library        |
+|                        |
+|                        |
+|                        |
++-----------+------------+
+            |
+            |
+    +-------+--------+
+    |                |
+    | RS485 chip     |
+    | attached to    |
+    | Pi UART        |
+    |                |
+    +-------+--------+
+            |
+   +--------+----------+
+   |                   |
+   | RS485 PID         |
+   | with SSR and temp |
+   | probe             |
+   |                   |
+   +--------+----------+
+            |
+            |
+   +--------+----------+
+   | RS485 volume      |
+   | sensor            |
+   |                   |
+   +-------------------+
+
+``` 
 
