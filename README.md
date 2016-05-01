@@ -35,6 +35,10 @@ http://uk.farnell.com/maxim-integrated-products/max13433eesd/rs485-txrx-16mbps-5
 
 http://www.aliexpress.com/store/product/PQLYT-100-QUALITY-actually-max-40A-SSR-input-3-32VDC-output-24-480VAC-solid-state-relay/808493_1984942532.html
 
+* Ultrasound distance module 
+
+http://www.ebay.co.uk/itm/181954043101
+
 * Wifi modules 
 
 | Chip Name     | Cost          | Arch 	         | Features   |
