@@ -99,4 +99,4 @@ http://www.ebay.co.uk/itm/181954043101
 
 ## Modbus 
 
-* https://github.com/karlp/fmb-demo
+* https://github.com/karlp/fmb-demo for STM32 chips
