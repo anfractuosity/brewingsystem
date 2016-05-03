@@ -100,3 +100,7 @@ http://www.ebay.co.uk/itm/181954043101
 ## Modbus 
 
 * https://github.com/karlp/fmb-demo for STM32 chips
+
+## Firmware
+
+* http://libopencm3.org/wiki/Main_Page for providing the ability to write code for different STM32 chips
