@@ -23,7 +23,7 @@ Chip:
 
 http://uk.farnell.com/texas-instruments/lmp91200mt-nopb/analogue-front-end-ph-sensing/dp/2496273
 
-* MAX13433EESD+ RS485 TXRX, 16MBPS
+* MAX13433EESD+ RS485 TXRX, 16Mbps
 
 Chip:
 
@@ -47,7 +47,9 @@ http://www.aliexpress.com/store/product/PQLYT-100-QUALITY-actually-max-40A-SSR-i
 
 http://www.ebay.co.uk/itm/181954043101
 
+* Flexible mains cabling 
 
+www.ebay.co.uk/itm/351474335145
 
 
 * Wifi modules 
