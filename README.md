@@ -49,7 +49,7 @@ http://www.ebay.co.uk/itm/181954043101
 
 * Flexible mains cabling 
 
-www.ebay.co.uk/itm/351474335145
+http://www.ebay.co.uk/itm/351474335145
 
 
 * Wifi modules 
