@@ -51,6 +51,9 @@ http://www.ebay.co.uk/itm/181954043101
 
 http://www.ebay.co.uk/itm/351474335145
 
+* 32A socket
+
+
 
 * Wifi modules 
 
