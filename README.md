@@ -51,9 +51,9 @@ http://www.ebay.co.uk/itm/181954043101
 
 http://www.ebay.co.uk/itm/351474335145
 
-* 32A socket
+* 32A socket and plug
 
-
+http://www.rselectricalsupplies.co.uk/gewiss-iec-309-32a-switched-interlocked-socket-240v-gw66015_268
 
 * Wifi modules 
 
